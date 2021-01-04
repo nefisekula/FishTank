@@ -29,8 +29,5 @@ Project has a appsettings.fle with keys belows.
 }
 ```
 
-Environment
-https://alm.deltatre.it/tfs/International%20Market/Golf.TV%202.0/_build?definitionId=796
-
 Repository
 https://github.com/nefisekula/FishTank
